@@ -1,25 +1,25 @@
 <!-- ======================================================== -->
-<!--                     ANIMATED HEADER                      -->
+<!--                     TERMINAL HEADER                      -->
 <!-- ======================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:00E5FF,70:7B61FF,100:050816&height=260&section=header&text=REHAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20IoT%20Developer%20%7C%20Embedded%20Systems&descAlignY=63" width="100%"/>
+  <!-- Custom Terminal SVG (Pastikan file dark.svg udah di-upload) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg">
+    <img alt="Terminal Banner" src="https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg" width="100%">
+  </picture>
 
-<h1>Hi 👋 I'm Rehan</h1>
-
-<h3>
-Electronics Technology Vocational Education Student <br>
-IoT • Embedded Systems • Artificial Intelligence • Industrial Automation
-</h3>
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Artificial+Intelligence+Explorer;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Artificial+Intelligence+Explorer;Always+Learning+Something+New"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Han0953&label=Profile+Views&color=00E5FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Han0953&label=Profile+Views&color=22D3EE&style=for-the-badge" />
 
 </div>
 
@@ -82,11 +82,11 @@ IoT • Embedded Systems • Artificial Intelligence • Industrial Automation
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Han0953&hide_border=true&background=050816&stroke=00E5FF&ring=7B61FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&titleColor=00E5FF&card_width=1180" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Han0953&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <!-- UBAH "YOUR-INSTANCE" DENGAN URL VERCEL LO NANTI -->
-  <img width="49%" src="https://github-readme-stats-rouge-beta-59.vercel.app/api?username=Han0953&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=050816&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-rouge-beta-59.vercel.app/api/top-langs/?username=Han0953&layout=compact&langs_count=8&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=050816&card_width=500" alt="top langs" />
+  
+  <img width="49%" src="https://github-readme-stats-rouge-beta-59.vercel.app/api?username=Han0953&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-rouge-beta-59.vercel.app/api/top-langs/?username=Han0953&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
 <br>
@@ -109,16 +109,17 @@ IoT • Embedded Systems • Artificial Intelligence • Industrial Automation
 # 🌎 Connect With Me
 
 <div align="center">
+  <!-- Jangan lupa ganti URL di href sama akun lo -->
   <a href="https://www.linkedin.com/in/YOUR-ID/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/YOUR-HANDLE/">
-    <img src="https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=00E5FF&labelColor=050816" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=0A101F" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOU@EMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=050816" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </div>
 
@@ -126,5 +127,5 @@ IoT • Embedded Systems • Artificial Intelligence • Industrial Automation
 
 <div align="center">
   ### 💡 *"Building intelligent systems that connect the physical and digital worlds."*
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:00E5FF,70:7B61FF,100:050816&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,30:22D3EE,70:A78BFA,100:0A101F&height=140&section=footer" width="100%"/>
 </div>
