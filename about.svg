@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+  <!-- Background & Border -->
+  <rect width="800" height="240" rx="12" fill="#0A101F" stroke="#A78BFA" stroke-width="1.5"/>
+  
+  <!-- Terminal Header -->
+  <path d="M 0 35 L 800 35" fill="none" stroke="#1E293B" stroke-width="2"/>
+  <circle cx="20" cy="18" r="5" fill="#FF5F56"/>
+  <circle cx="40" cy="18" r="5" fill="#FFBD2E"/>
+  <circle cx="60" cy="18" r="5" fill="#27C93F"/>
+  <text x="400" y="23" font-family="monospace" font-size="12" fill="#94A3B8" text-anchor="middle">execute ./about_rehan.sh</text>
+  
+  <!-- Main Content -->
+  <g transform="translate(40, 75)" font-family="monospace">
+    <!-- Title -->
+    <text x="0" y="0" font-weight="bold" fill="#22D3EE" font-size="20">Rehan (Han0953)</text>
+    <text x="0" y="22" fill="#A78BFA" font-size="13">BSc Student in Electronics Technology @ Muhammadiyah University of Riau</text>
+    
+    <!-- Description Block -->
+    <rect x="0" y="40" width="4" height="65" fill="#10B981" rx="2"/>
+    <text x="15" y="52" fill="#F8FAFC" font-size="13">I am an embedded systems enthusiast bridging the gap</text>
+    <text x="15" y="72" fill="#F8FAFC" font-size="13">between physical hardware and digital intelligence.</text>
+    <text x="15" y="92" fill="#F8FAFC" font-size="13">Currently building smart solutions through automation.</text>
+    
+    <!-- Focus Tags -->
+    <text x="0" y="135" fill="#475569" font-size="12">CURRENT.FOCUS = [</text>
+    <text x="140" y="135" fill="#22D3EE" font-size="12">"Internet of Things"</text>
+    <text x="295" y="135" fill="#475569" font-size="12">,</text>
+    <text x="310" y="135" fill="#10B981" font-size="12">"Edge AI &amp; Vision"</text>
+    <text x="445" y="135" fill="#475569" font-size="12">,</text>
+    <text x="460" y="135" fill="#A78BFA" font-size="12">"Industrial Automation"</text>
+    <text x="625" y="135" fill="#475569" font-size="12">]</text>
+  </g>
+  
+  <!-- Right Side Decorative Graphic -->
+  <g transform="translate(670, 70)">
+    <path d="M 0 0 L 80 0 L 80 80 L 0 80 Z" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-dasharray="4"/>
+    <rect x="10" y="10" width="60" height="60" fill="#22D3EE" opacity="0.1"/>
+    <text x="40" y="45" font-family="monospace" font-size="20" fill="#22D3EE" text-anchor="middle" font-weight="bold">IoT</text>
+  </g>
+</svg>
