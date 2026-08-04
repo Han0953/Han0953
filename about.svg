@@ -13,13 +13,15 @@
   <g transform="translate(40, 75)" font-family="monospace">
     <!-- Title -->
     <text x="0" y="0" font-weight="bold" fill="#22D3EE" font-size="20">Rehan (Han0953)</text>
-    <text x="0" y="22" fill="#A78BFA" font-size="13">BSc Vocational Education in Electronic Engineering @ Muhammadiyah University of Riau</text>
+    <text x="0" y="22" fill="#A78BFA" font-size="13">BSc Vocational Education in Vocational Education Electronic Engineering @ Muhammadiyah University of Riau</text>
     
     <!-- Description Block -->
-    <rect x="0" y="40" width="4" height="65" fill="#10B981" rx="2"/>
-    <text x="15" y="52" fill="#F8FAFC" font-size="13">I am an embedded systems enthusiast bridging the gap</text>
+    <text x="15" y="52" fill="#F8FAFC" font-size="13">I'm an embedded systems enthusiast bridging the gap</text>
     <text x="15" y="72" fill="#F8FAFC" font-size="13">between physical hardware and digital intelligence.</text>
-    <text x="15" y="92" fill="#F8FAFC" font-size="13">Currently building smart solutions through automation.</text>
+    <text x="15" y="92" fill="#F8FAFC" font-size="13">Currently building smart solutions through automation,</text>
+    <text x="15" y="112" fill="#F8FAFC" font-size="13">while exploring IoT, microcontrollers, and edge computing.</text>
+    <text x="15" y="132" fill="#F8FAFC" font-size="13">Still a passionate learner, constantly experimenting,</text>
+    <text x="15" y="152" fill="#F8FAFC" font-size="13">and embracing every bug as a step to getting better.</text>
     
     <!-- Focus Tags -->
     <text x="0" y="135" fill="#475569" font-size="12">CURRENT.FOCUS = [</text>
