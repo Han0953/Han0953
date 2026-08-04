@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <!-- Background -->
+  <rect width="800" height="320" rx="12" fill="#0A101F" stroke="#22D3EE" stroke-width="1.5"/>
+  
+  <!-- Header -->
+  <text x="400" y="35" font-family="monospace" font-size="16" fill="#22D3EE" font-weight="bold" text-anchor="middle" letter-spacing="2">HARDWARE &amp; PROTOCOLS GRID</text>
+  <path d="M 40 55 L 760 55" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.5"/>
+  
+  <g font-family="monospace" font-size="12">
+    <!-- Table Headers -->
+    <text x="60" y="85" fill="#10B981" font-weight="bold" font-size="14">MCU / BOARDS</text>
+    <text x="260" y="85" fill="#A78BFA" font-weight="bold" font-size="14">SENSORS</text>
+    <text x="460" y="85" fill="#22D3EE" font-weight="bold" font-size="14">COMMUNICATION</text>
+    <text x="660" y="85" fill="#F8FAFC" font-weight="bold" font-size="14">ACTUATORS</text>
+
+    <!-- Vertical Dividers -->
+    <path d="M 240 70 L 240 270" fill="none" stroke="#1E293B" stroke-width="2"/>
+    <path d="M 440 70 L 440 270" fill="none" stroke="#1E293B" stroke-width="2"/>
+    <path d="M 640 70 L 640 270" fill="none" stroke="#1E293B" stroke-width="2"/>
+
+    <!-- Column 1: MCU -->
+    <circle cx="60" cy="115" r="4" fill="#10B981"/> <text x="75" y="119" fill="#94A3B8">ESP32 (Core)</text>
+    <circle cx="60" cy="145" r="4" fill="#10B981"/> <text x="75" y="149" fill="#94A3B8">Arduino Uno</text>
+    <circle cx="60" cy="175" r="4" fill="#10B981"/> <text x="75" y="179" fill="#94A3B8">Arduino Nano</text>
+    <circle cx="60" cy="205" r="4" fill="#10B981"/> <text x="75" y="209" fill="#94A3B8">NodeMCU</text>
+    <circle cx="60" cy="235" r="4" fill="#10B981"/> <text x="75" y="239" fill="#94A3B8">Raspberry Pi</text>
+
+    <!-- Column 2: Sensors -->
+    <circle cx="260" cy="115" r="4" fill="#A78BFA"/> <text x="275" y="119" fill="#94A3B8">DHT11 / DHT22</text>
+    <circle cx="260" cy="145" r="4" fill="#A78BFA"/> <text x="275" y="149" fill="#94A3B8">Soil Moisture</text>
+    <circle cx="260" cy="175" r="4" fill="#A78BFA"/> <text x="275" y="179" fill="#94A3B8">MQ Gas Series</text>
+    <circle cx="260" cy="205" r="4" fill="#A78BFA"/> <text x="275" y="209" fill="#94A3B8">HC-SR04 (Sonar)</text>
+    <circle cx="260" cy="235" r="4" fill="#A78BFA"/> <text x="275" y="239" fill="#94A3B8">Flame Sensor</text>
+    
+    <!-- Column 3: Communication -->
+    <circle cx="460" cy="115" r="4" fill="#22D3EE"/> <text x="475" y="119" fill="#94A3B8">MQTT (IoT)</text>
+    <circle cx="460" cy="145" r="4" fill="#22D3EE"/> <text x="475" y="149" fill="#94A3B8">Wi-Fi / 802.11</text>
+    <circle cx="460" cy="175" r="4" fill="#22D3EE"/> <text x="475" y="179" fill="#94A3B8">Bluetooth/BLE</text>
+    <circle cx="460" cy="205" r="4" fill="#22D3EE"/> <text x="475" y="209" fill="#94A3B8">UART / I2C</text>
+    <circle cx="460" cy="235" r="4" fill="#22D3EE"/> <text x="475" y="239" fill="#94A3B8">SPI</text>
+
+    <!-- Column 4: Actuators -->
+    <circle cx="660" cy="115" r="4" fill="#F8FAFC"/> <text x="675" y="119" fill="#94A3B8">Servo Motor</text>
+    <circle cx="660" cy="145" r="4" fill="#F8FAFC"/> <text x="675" y="149" fill="#94A3B8">Stepper Motor</text>
+    <circle cx="660" cy="175" r="4" fill="#F8FAFC"/> <text x="675" y="179" fill="#94A3B8">Relay Module</text>
+    <circle cx="660" cy="205" r="4" fill="#F8FAFC"/> <text x="675" y="209" fill="#94A3B8">Water Pump</text>
+    <circle cx="660" cy="235" r="4" fill="#F8FAFC"/> <text x="675" y="239" fill="#94A3B8">MOSFETs</text>
+  </g>
+  
+  <!-- Footer Status -->
+  <path d="M 40 280 L 760 280" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.5"/>
+  <circle cx="300" cy="301" r="3" fill="#10B981" />
+  <text x="315" y="305" font-family="monospace" font-size="10" fill="#475569">SYSTEM.STATUS = ONLINE</text>
+  
+  <circle cx="455" cy="301" r="3" fill="#22D3EE" />
+  <text x="470" y="305" font-family="monospace" font-size="10" fill="#475569">ALL.MODULES = ACTIVE</text>
+</svg>
