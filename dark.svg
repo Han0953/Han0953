@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450">
+  <!-- Background & Border -->
+  <rect width="900" height="450" rx="12" fill="#0A101F" stroke="#22D3EE" stroke-width="1.5"/>
+  <rect x="5" y="5" width="890" height="440" rx="10" fill="none" stroke="#A78BFA" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- macOS Window Controls -->
+  <circle cx="30" cy="30" r="6" fill="#FF5F56" />
+  <circle cx="50" cy="30" r="6" fill="#FFBD2E" />
+  <circle cx="70" cy="30" r="6" fill="#27C93F" />
+
+  <!-- Terminal Title -->
+  <text x="450" y="34" font-family="monospace" font-size="12" fill="#94A3B8" text-anchor="middle" letter-spacing="1">rehan.connect@umri.ac.id - % ./profile.sh --live</text>
+  
+  <!-- Left Column: Visual Map / ASCII Art -->
+  <text x="40" y="80" font-family="monospace" font-size="10" fill="#475569" letter-spacing="2">V I S U A L . M A P</text>
+  <!-- Frame around ASCII -->
+  <path d="M 40 100 L 55 100 M 40 100 L 40 115" fill="none" stroke="#22D3EE" stroke-width="2"/>
+  <path d="M 330 100 L 315 100 M 330 100 L 330 115" fill="none" stroke="#22D3EE" stroke-width="2"/>
+  <path d="M 40 380 L 55 380 M 40 380 L 40 365" fill="none" stroke="#22D3EE" stroke-width="2"/>
+  <path d="M 330 380 L 315 380 M 330 380 L 330 365" fill="none" stroke="#22D3EE" stroke-width="2"/>
+  
+  <!-- Cool Glowing IoT/Code ASCII -->
+  <g transform="translate(70, 160)" font-family="monospace" font-size="28" fill="#A78BFA" font-weight="bold">
+    <text x="0" y="0">&lt; / &gt;</text>
+    <text x="30" y="70" font-size="16" fill="#22D3EE">ESP32</text>
+    <text x="-20" y="40" font-size="12" fill="#10B981">MQTT</text>
+    <text x="80" y="20" font-size="12" fill="#F8FAFC">IOT</text>
+  </g>
+  <!-- Decorative dots to simulate particles -->
+  <circle cx="100" cy="140" r="1.5" fill="#22D3EE" opacity="0.8"/>
+  <circle cx="180" cy="250" r="1.5" fill="#A78BFA" opacity="0.6"/>
+  <circle cx="250" cy="180" r="2" fill="#10B981" opacity="0.7"/>
+  <circle cx="80" cy="300" r="1" fill="#F8FAFC" opacity="0.5"/>
+  <circle cx="150" cy="320" r="1.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="280" cy="280" r="1.5" fill="#A78BFA" opacity="0.8"/>
+
+  <!-- Right Column: System Info -->
+  <text x="370" y="100" font-family="monospace" font-size="14" fill="#22D3EE" font-weight="bold" letter-spacing="1">SYSTEM.INFO</text>
+  <text x="840" y="100" font-family="monospace" font-size="10" fill="#10B981" text-anchor="end">● LIVE</text>
+
+  <!-- Highlight Box -->
+  <rect x="370" y="115" width="220" height="22" rx="4" fill="#7C3AED" opacity="0.3"/>
+  <text x="375" y="131" font-family="monospace" font-size="13" fill="#F8FAFC" font-weight="bold">rehan.connect@umri.ac.id</text>
+
+  <!-- Info Grid -->
+  <g font-family="monospace" font-size="12" fill="#22D3EE">
+    <!-- Labels -->
+    <text x="370" y="160">Subject</text>
+    <text x="370" y="180">Role</text>
+    <text x="370" y="200">Origin</text>
+    <text x="370" y="220">Education</text>
+    <text x="370" y="240">Status</text>
+    <text x="370" y="260">ToolChain</text>
+    
+    <text x="370" y="290">Core.Lang</text>
+    <text x="370" y="310">Core.Hardware</text>
+    <text x="370" y="330">Core.IoT</text>
+    <text x="370" y="350">Core.Web</text>
+
+    <!-- Divider -->
+    <text x="370" y="375" fill="#475569">- Contact</text>
+
+    <text x="370" y="400">Grid.GitHub</text>
+    <text x="370" y="420">Grid.Portfolio</text>
+  </g>
+
+  <!-- Dotted lines -->
+  <g font-family="monospace" font-size="12" fill="#475569" opacity="0.5">
+    <text x="440" y="160">.............................................</text>
+    <text x="440" y="180">.............................................</text>
+    <text x="440" y="200">.............................................</text>
+    <text x="460" y="220">...........................................</text>
+    <text x="440" y="240">.............................................</text>
+    <text x="460" y="260">...........................................</text>
+    
+    <text x="460" y="290">...........................................</text>
+    <text x="490" y="310">........................................</text>
+    <text x="450" y="330">............................................</text>
+    <text x="450" y="350">............................................</text>
+
+    <text x="470" y="400">.........................................</text>
+    <text x="490" y="420">........................................</text>
+  </g>
+
+  <!-- Values -->
+  <g font-family="monospace" font-size="12" fill="#F8FAFC" text-anchor="end" font-weight="bold">
+    <text x="860" y="160">Rehan</text>
+    <text x="860" y="180">IoT &amp; Embedded Systems Engineer</text>
+    <text x="860" y="200">Pekanbaru, Indonesia</text>
+    <text x="860" y="220">BSc in Electronics Technology</text>
+    <text x="860" y="240">Building + Tinkering + Shipping</text>
+    <text x="860" y="260">VS Code, Arduino IDE, Git, Figma</text>
+
+    <text x="860" y="290">C++, C, Python, PHP</text>
+    <text x="860" y="310">ESP32, Arduino, Raspberry Pi</text>
+    <text x="860" y="330">MQTT, Smart Sensors, Cloud</text>
+    <text x="860" y="350">Laravel, React, Tailwind</text>
+
+    <text x="860" y="400">@Han0953</text>
+    <text x="860" y="420" fill="#A78BFA">building soon...</text>
+  </g>
+</svg>
