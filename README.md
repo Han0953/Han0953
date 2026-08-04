@@ -22,13 +22,33 @@
 
   <br><br>
 
+  <!-- ======================================================== -->
+  <!--                   TYPING TEXT ANIMATION                  -->
+  <!-- ======================================================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Artificial+Intelligence+Explorer;Always+Learning+Something+New"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Edge+AI+and+TinyML+Explorer;Smart+Farming+and+Robotics+Builder;ESP32+and+Arduino+Tinkerer;Bridging+Hardware+and+Software;Always+Learning+Something+New"/>
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=Han0953&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
+  <!-- ======================================================== -->
+  <!--                 SYSTEM STATUS & BADGES                   -->
+  <!-- ======================================================== -->
+  
+  <!-- System Visits / Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Han0953&label=SYSTEM_VISITS&color=22D3EE&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <!-- C/C++ Badge -->
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-0A101F?style=for-the-badge&logo=c%2B%2B&logoColor=A78BFA&labelColor=0A101F&color=1E293B" alt="C/C++" />
+  &nbsp;
+  <!-- Arduino Badge -->
+  <img src="https://img.shields.io/badge/Arduino-0A101F?style=for-the-badge&logo=arduino&logoColor=10B981&labelColor=0A101F&color=1E293B" alt="Arduino" />
+  &nbsp;
+  <!-- Vercel Deploys Badge -->
+  <img src="https://img.shields.io/badge/Vercel-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F&color=1E293B" alt="Vercel" />
+  &nbsp;
+  <!-- Fake System Status Badge for Aesthetic -->
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-10B981?style=for-the-badge&labelColor=0A101F&color=10B981" alt="Status" />
 </div>
 
 <!-- Animated Glowing Cyber Line Divider -->
