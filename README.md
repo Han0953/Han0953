@@ -5,35 +5,35 @@
 <div align="center">
   <!-- Custom Terminal SVG -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg)">
-    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg)">
-    <img alt="Terminal Banner" src="[https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/dark.svg)" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dark.svg">
+    <img alt="Terminal Banner" src="./dark.svg" width="100%">
   </picture>
 
   <br><br>
 
   <!-- STATS GRID -->
-  <img width="100%" src="[https://streak-stats.demolab.com/?user=Han0953&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180](https://streak-stats.demolab.com/?user=Han0953&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180)" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Han0953&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   
   <br/>
   
-  <img width="49%" src="[https://github-readme-stats-rouge-beta-59.vercel.app/api?username=Han0953&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500](https://github-readme-stats-rouge-beta-59.vercel.app/api?username=Han0953&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500)" alt="stats" />
-  <img width="49%" src="[https://github-readme-stats-rouge-beta-59.vercel.app/api/top-langs/?username=Han0953&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500](https://github-readme-stats-rouge-beta-59.vercel.app/api/top-langs/?username=Han0953&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500)" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats-rouge-beta-59.vercel.app/api?username=Han0953&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-rouge-beta-59.vercel.app/api/top-langs/?username=Han0953&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
   <br><br>
 
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Artificial+Intelligence+Explorer;Always+Learning+Something+New](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Artificial+Intelligence+Explorer;Always+Learning+Something+New)"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Artificial+Intelligence+Explorer;Always+Learning+Something+New"/>
   </a>
 
   <br><br>
 
-  <img src="[https://komarev.com/ghpvc/?username=Han0953&label=Profile+Views&color=22D3EE&style=for-the-badge](https://komarev.com/ghpvc/?username=Han0953&label=Profile+Views&color=22D3EE&style=for-the-badge)" />
+  <img src="https://komarev.com/ghpvc/?username=Han0953&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Animated Glowing Cyber Line Divider -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
 </p>
 
 <!-- ======================================================== -->
@@ -42,9 +42,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/main/about.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/about.svg)">
-    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/main/about.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/about.svg)">
-    <img alt="About Me" src="[https://raw.githubusercontent.com/Han0953/Han0953/main/about.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/about.svg)" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./about.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./about.svg">
+    <img alt="About Me" src="./about.svg" width="100%">
   </picture>
 </div>
 
@@ -56,15 +56,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/main/hardware.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/hardware.svg)">
-    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/main/hardware.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/hardware.svg)">
-    <img alt="Hardware Grid" src="[https://raw.githubusercontent.com/Han0953/Han0953/main/hardware.svg](https://raw.githubusercontent.com/Han0953/Han0953/main/hardware.svg)" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./hardware.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./hardware.svg">
+    <img alt="Hardware Grid" src="./hardware.svg" width="100%">
   </picture>
 </div>
 
 <!-- Animated Glowing Cyber Line Divider -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
 </p>
 
 <!-- ======================================================== -->
@@ -72,10 +72,11 @@
 <!-- ======================================================== -->
 
 <div align="center">
+  <!-- Note: Path ini tetep pake URL absolute karena beda branch (branch 'output') -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake-dark.svg](https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake-dark.svg)" />
-    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake.svg](https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake.svg)" />
-    <img alt="Snake eating my contributions" src="[https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake-dark.svg](https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake-dark.svg)" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Han0953/Han0953/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -86,23 +87,22 @@
 <!-- ======================================================== -->
 
 <div align="center">
-  <!-- Jangan lupa ganti URL di href sama akun lo -->
-  <a href="[https://www.linkedin.com/in/YOUR-ID/](https://www.linkedin.com/in/YOUR-ID/)">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/YOUR-ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.instagram.com/YOUR-HANDLE/](https://www.instagram.com/YOUR-HANDLE/)">
-    <img src="[https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=0A101F](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=0A101F)" alt="Instagram" />
+  <a href="https://www.instagram.com/YOUR-HANDLE/">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=0A101F" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOU@EMAIL.COM">
-    <img src="[https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F)" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  ### 💡 *"Building intelligent systems that connect the physical and digital worlds."*
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,30:22D3EE,70:A78BFA,100:0A101F&height=140&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,30:22D3EE,70:A78BFA,100:0A101F&height=140&section=footer)" width="100%"/>
+  <h3 align="center">💡 <i>"Building intelligent systems that connect the physical and digital worlds."</i></h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,30:22D3EE,70:A78BFA,100:0A101F&height=140&section=footer" width="100%" alt="Footer Wave"/>
 </div>
