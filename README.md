@@ -34,30 +34,30 @@
 <!--                        ABOUT ME                          -->
 <!-- ======================================================== -->
 
-# 💫 About Me
+<a href="https://github.com/Han0953">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&color=22D3EE&center=false&vCenter=false&lines=>_++./about_me.sh;>_++Initializing_Profile..."/>
+</a>
 
-<img align="right" width="340" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-🎓 Bachelor Student in **Electronics Technology Vocational Education** at **Muhammadiyah University of Riau**
-
-📍 Pekanbaru, Indonesia
-
-⚡ Passionate about building intelligent systems that bridge hardware and software.
-
-💡 **Interested in:**
-- 🤖 Internet of Things & Robotics
-- ⚙️ Embedded Systems & Industrial Automation
-- 🧠 Artificial Intelligence & Computer Vision
-- 🌾 Smart Farming Solutions
-
-🌱 **Currently learning:**
-- Edge AI & TinyML
-- Machine Learning for Hardware
-- MQTT & Cloud IoT Protocols
-- React & Laravel Fullstack
-
-<br clear="all">
-
+```json
+{
+  "user": "Rehan",
+  "role": "Electronics Technology Vocational Education Student",
+  "university": "Muhammadiyah University of Riau",
+  "location": "Pekanbaru, Indonesia",
+  "mission": "Building intelligent systems that bridge hardware & software.",
+  "focus_areas": [
+    "Internet of Things & Robotics",
+    "Embedded Systems & Automation",
+    "Artificial Intelligence & Vision",
+    "Smart Farming Solutions"
+  ],
+  "currently_learning": {
+    "hardware": ["Edge AI", "TinyML", "Machine Learning"],
+    "software": ["MQTT", "React", "Laravel Fullstack"]
+  }
+}
 ---
 
 <!-- ======================================================== -->
