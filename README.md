@@ -34,11 +34,11 @@
 <!--                        ABOUT ME                          -->
 <!-- ======================================================== -->
 
-<a href="https://github.com/Han0953">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&color=22D3EE&center=false&vCenter=false&lines=>_++./about_me.sh;>_++Initializing_Profile..."/>
+<a href="[https://github.com/Han0953](https://github.com/Han0953)">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&color=22D3EE&center=false&vCenter=false&lines=](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&color=22D3EE&center=false&vCenter=false&lines=)>_++./about_me.sh;>_++Initializing_Profile..."/>
 </a>
 
-<img align="right" width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" width="280" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)"/>
 
 ```json
 {
@@ -58,6 +58,47 @@
     "software": ["MQTT", "React", "Laravel Fullstack"]
   }
 }
+```
+<br clear="all">
+
+<!-- ======================================================== -->
+<!--                   HARDWARE EXPERIENCE                    -->
+<!-- ======================================================== -->
+
+<a href="[https://github.com/Han0953](https://github.com/Han0953)">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&color=A78BFA&center=false&vCenter=false&lines=](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&color=A78BFA&center=false&vCenter=false&lines=)>_++./scan_hardware.sh;>_++Loading_Modules..."/>
+</a>
+
+```yaml
+Hardware_Config:
+  microcontrollers:
+    primary: ["ESP32", "Arduino Uno", "Arduino Nano"]
+    secondary: ["Raspberry Pi", "NodeMCU"]
+
+  sensors_array:
+    environmental: ["DHT11 / DHT22", "Soil Moisture"]
+    hazard_detect: ["MQ Series (Smoke/Gas)", "Flame Sensor"]
+    proximity: ["HC-SR04 (Ultrasonic)"]
+
+  display_interfaces:
+    - OLED Display
+    - LCD I2C
+    - LED Matrix MAX7219
+
+  communication_protocols:
+    wireless: ["MQTT", "WiFi", "Bluetooth"]
+    wired: ["UART", "I2C", "SPI"]
+
+  actuators_and_logic:
+    - Servo & Stepper Motors
+    - Relay Modules & MOSFETs
+    - RTC DS3231 & RFID
+```
+
+<!-- Animated Glowing Cyber Line Divider -->
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%">
+</p>
 ---
 
 <!-- ======================================================== -->
