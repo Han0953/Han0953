@@ -44,9 +44,8 @@
   <!-- Arduino Badge -->
   <img src="https://img.shields.io/badge/Arduino-0A101F?style=for-the-badge&logo=arduino&logoColor=10B981&labelColor=0A101F&color=1E293B" alt="Arduino" />
   &nbsp;
-  <!-- Vercel Deploys Badge -->
-  <img src="https://img.shields.io/badge/Vercel-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F&color=1E293B" alt="Vercel" />
-  &nbsp;
+  <!-- ESP32 Badge -->
+  <img src="https://img.shields.io/badge/ESP32-0A101F?style=for-the-badge&logo=espressif&logoColor=E7352C&labelColor=0A101F&color=1E293B" alt="ESP32" />
   <!-- Fake System Status Badge for Aesthetic -->
   <img src="https://img.shields.io/badge/STATUS-ONLINE-10B981?style=for-the-badge&labelColor=0A101F&color=10B981" alt="Status" />
 </div>
