@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
   <!-- Background & Border -->
-  <rect width="800" height="280" rx="12" fill="#0A101F" stroke="#A78BFA" stroke-width="1.5"/>
+  <rect width="800" height="300" rx="12" fill="#0A101F" stroke="#A78BFA" stroke-width="1.5"/>
   
   <!-- Terminal Header -->
   <path d="M 0 35 L 800 35" fill="none" stroke="#1E293B" stroke-width="2"/>
@@ -11,33 +11,34 @@
   
   <!-- Main Content -->
   <g transform="translate(40, 75)" font-family="monospace">
-    <!-- Title -->
+    <!-- Title (Udah dipecah jadi 2 baris biar gak nabrak ke kanan) -->
     <text x="0" y="0" font-weight="bold" fill="#22D3EE" font-size="20">Rehan (Han0953)</text>
-    <text x="0" y="22" fill="#A78BFA" font-size="13">BSc Vocational Education in Vocational Education Electronic Engineering @ Muhammadiyah University of Riau</text>
+    <text x="0" y="22" fill="#A78BFA" font-size="13">BSc Vocational Education in Electronic Engineering</text>
+    <text x="0" y="40" fill="#A78BFA" font-size="13">@ Muhammadiyah University of Riau</text>
     
-    <!-- Garis Hijau (Udah dibalikin dan dipanjangin) -->
-    <rect x="0" y="40" width="4" height="125" fill="#10B981" rx="2"/>
+    <!-- Garis Hijau (Y-nya disesuaikan karena atasnya nambah baris) -->
+    <rect x="0" y="55" width="4" height="125" fill="#10B981" rx="2"/>
 
     <!-- Description Block -->
-    <text x="15" y="52" fill="#F8FAFC" font-size="13">I'm an embedded systems enthusiast bridging the gap</text>
-    <text x="15" y="72" fill="#F8FAFC" font-size="13">between physical hardware and digital intelligence.</text>
-    <text x="15" y="92" fill="#F8FAFC" font-size="13">Currently building smart solutions through automation,</text>
-    <text x="15" y="112" fill="#F8FAFC" font-size="13">while exploring IoT, microcontrollers, and edge computing.</text>
-    <text x="15" y="132" fill="#F8FAFC" font-size="13">Still a passionate learner, constantly experimenting,</text>
-    <text x="15" y="152" fill="#F8FAFC" font-size="13">and embracing every bug as a step to getting better.</text>
+    <text x="15" y="67" fill="#F8FAFC" font-size="13">I'm an embedded systems enthusiast bridging the gap</text>
+    <text x="15" y="87" fill="#F8FAFC" font-size="13">between physical hardware and digital intelligence.</text>
+    <text x="15" y="107" fill="#F8FAFC" font-size="13">Currently building smart solutions through automation,</text>
+    <text x="15" y="127" fill="#F8FAFC" font-size="13">while exploring IoT, microcontrollers, and edge computing.</text>
+    <text x="15" y="147" fill="#F8FAFC" font-size="13">Still a passionate learner, constantly experimenting,</text>
+    <text x="15" y="167" fill="#F8FAFC" font-size="13">and embracing every bug as a step to getting better.</text>
     
-    <!-- Focus Tags (Posisi Y udah diturunin ke 180 biar gak nabrak teks) -->
-    <text x="0" y="180" fill="#475569" font-size="12">CURRENT.FOCUS = [</text>
-    <text x="140" y="180" fill="#22D3EE" font-size="12">"Internet of Things"</text>
-    <text x="295" y="180" fill="#475569" font-size="12">,</text>
-    <text x="310" y="180" fill="#10B981" font-size="12">"Edge AI &amp; Vision"</text>
-    <text x="445" y="180" fill="#475569" font-size="12">,</text>
-    <text x="460" y="180" fill="#A78BFA" font-size="12">"Industrial Automation"</text>
-    <text x="625" y="180" fill="#475569" font-size="12">]</text>
+    <!-- Focus Tags -->
+    <text x="0" y="205" fill="#475569" font-size="12">CURRENT.FOCUS = [</text>
+    <text x="140" y="205" fill="#22D3EE" font-size="12">"Internet of Things"</text>
+    <text x="295" y="205" fill="#475569" font-size="12">,</text>
+    <text x="310" y="205" fill="#10B981" font-size="12">"Edge AI &amp; Vision"</text>
+    <text x="445" y="205" fill="#475569" font-size="12">,</text>
+    <text x="460" y="205" fill="#A78BFA" font-size="12">"Industrial Automation"</text>
+    <text x="625" y="205" fill="#475569" font-size="12">]</text>
   </g>
   
-  <!-- Right Side Decorative Graphic (Ditengahin dikit ke bawah ngikutin tinggi canvas) -->
-  <g transform="translate(670, 90)">
+  <!-- Right Side Decorative Graphic (Ditengahin ulang & digeser Y-nya) -->
+  <g transform="translate(670, 110)">
     <path d="M 0 0 L 80 0 L 80 80 L 0 80 Z" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-dasharray="4"/>
     <rect x="10" y="10" width="60" height="60" fill="#22D3EE" opacity="0.1"/>
     <text x="40" y="45" font-family="monospace" font-size="20" fill="#22D3EE" text-anchor="middle" font-weight="bold">IoT</text>
