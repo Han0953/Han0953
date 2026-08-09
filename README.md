@@ -26,7 +26,7 @@
   <!--                   TYPING TEXT ANIMATION                  -->
   <!-- ======================================================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Electronics+Technology+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Edge+AI+and+TinyML+Explorer;Smart+Farming+and+Robotics+Builder;ESP32+and+Arduino+Tinkerer;Bridging+Hardware+and+Software;Always+Learning+Something+New"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Electronics+Engineering+Vocational+Education;Internet+of+Things+Developer;Embedded+Systems+Engineer;Industrial+Automation+Enthusiast;Edge+AI+and+TinyML+Explorer;Smart+Farming+and+Robotics+Builder;ESP32+and+Arduino+Tinkerer;Bridging+Hardware+and+Software;Always+Learning+Something+New"/>
   </a>
 
   <br><br>
